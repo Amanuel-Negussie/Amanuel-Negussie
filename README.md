@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [this awesome Bug Tracker Website built in MERN](https://github.com/Amanuel-Negussie/bugTrackerProject2022-Negussie)
 
-- 🌱 I’m currently learning **MERN Framework**
+- 🌱 I’m currently learning **MERN Framework** and **Bash Scripting** 
 
 - 💬 Ask me about **C, C++**
 
