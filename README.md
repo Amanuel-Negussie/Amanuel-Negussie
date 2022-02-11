@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanuel Negussie</h1>
+<h1 align="center">Hi 👋🏾, I'm Amanuel Negussie</h1>
 <h3 align="center">I am a 2nd year student studying Computer Science at Conestoga College. I enjoy learning how things work and why they work, because I know I could use that knowledge one day to help people.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanuel-negussie&label=Profile%20views&color=0e75b6&style=flat" alt="amanuel-negussie" /> </p>
